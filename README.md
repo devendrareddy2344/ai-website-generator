@@ -19,7 +19,7 @@ with Tailwind CSS.
 
 ## 🏗 System Architecture
 
-```mermaid
+mermaid
 graph TD
     User([User Browser]) -->|Input Prompt| Frontend[React Frontend - Vercel]
     Frontend -->|POST /generate| Backend[FastAPI Backend - Render]
@@ -27,7 +27,7 @@ graph TD
     Gemini -->|Generated HTML| Backend
     Backend -->|JSON Response| Frontend
     Frontend -->|Render Output| Preview[Live Preview Iframe]
----
+
 website_generator/
 ├── backend/
 │   ├── main.py              # FastAPI Application Entry
