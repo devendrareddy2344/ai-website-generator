@@ -65,8 +65,8 @@ website_generator/
 
 Name: Devendra Reddy
 Role: AI 
-GitHub: https://github.com/
-Portfolio: https://
+GitHub: [https://github.com/](https://github.com/devendrareddy2344)
+
 - Multi-page website generation
 - Theme and color customization
 - Export to GitHub Pages
