@@ -20,9 +20,9 @@ export default function App() {
 
     try {
       const res = await fetch(
-        "https://ai-website-generator-y71o.onrender.com/generate",
+        `${import.meta.env.VITE_API_URL}/generate`,
         {
-          method: "POST", // ✅ CORRECT METHOD
+          method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ text: prompt }),
         }
