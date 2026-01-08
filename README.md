@@ -7,8 +7,6 @@ modern, responsive, and visually stunning websites instantly using AI.
 It uses the Google Gemini API to generate complete single-file HTML websites styled
 with Tailwind CSS.
 
----
-
 ## 🌟 Key Features
 - 🧠 Natural Language to Website Generation
 - 🎨 AI-Driven UI/UX using Tailwind CSS
