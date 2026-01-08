@@ -63,7 +63,7 @@ Copy code
 
 ## 📁 Project Structure
 
-gensite-ai/
+<p>gensite-ai/
 │
 ├── backend/
 │ ├── main.py
@@ -86,7 +86,7 @@ gensite-ai/
 │ └── Loader.jsx
 │
 ├── .gitignore
-└── README.md
+└── README.md</p>
 
 
 
